@@ -1,3 +1,5 @@
+![stamps-banner-github](https://user-images.githubusercontent.com/188658/206082443-a2bd5313-8e21-45c2-a533-1095c99818f1.jpg)
+
 ### About Stamps
 We are Indonesia's leading CRM & mobile app development company serving multi-national companies such as:
 * Levi's
