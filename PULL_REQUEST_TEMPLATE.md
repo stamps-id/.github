@@ -39,7 +39,9 @@ Pastikan checklist dibawah sudah dikerjakan sebelum submit PR :
 | Level | Description |
 | --- | --- |
 | Trivial | wording, upgrade library, menampilkan data ke halaman yang sudah existing |
-| Easy | field baru/ubah field tanpa migrasi data, CRUD* |
-| Medium | debugging*, import/export data, migrasi data, penambahan fitur baru tanpa ubah flow |
-| Hard | debugging*, integrasi 3rd party, penambahan fitur baru dengan ubah flow*, refactoring code base, setup server |
-| Very Hard | Penambahan fitur baru ubah flow* |
+| Easy | field baru/ubah field tanpa migrasi data, CRUD*, bug fixing |
+| Medium | bug fixing*, import/export data, migrasi data, penambahan fitur baru*, refactoring code base*, performance improvements* |
+| Hard | bug fixing*, integrasi 3rd party, penambahan fitur baru*, refactoring code base*, setup server, improvements* |
+| Very Hard | Penambahan fitur baru ubah flow*, penambahan fitur baru* |
+
+* Tingkat kesulitan beragam, tergantung issue
