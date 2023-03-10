@@ -23,7 +23,7 @@ Pastikan checklist dibawah sudah dikerjakan sebelum submit PR :
 # Screenshot Mockup
 | Dev| Mockup |
 |:-------------------------:|:-------------------------:|
- Attach here | Attach here
+ ![image](https://user-images.githubusercontent.com/21882504/224208793-9898699c-9d25-4a9e-b6ac-c3687daab60d.png) | ![image](https://user-images.githubusercontent.com/21882504/224208801-887df596-4964-4499-b109-adf4ccbae706.png)
 
 
 # Issue Level Mobile
