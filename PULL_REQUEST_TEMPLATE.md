@@ -11,6 +11,7 @@ Pastikan checklist dibawah sudah dikerjakan sebelum submit PR :
 - [ ] Update changelog.md (jika dibutuhkan)
 - [ ] Sudah melampirkan test (Apabila perlu)
 - [ ] Code security sudah di check
+- [ ] Sudah assign reviewer
 
 # Reviewer Checklist
 - [ ] Difficulty level sudah di-label
