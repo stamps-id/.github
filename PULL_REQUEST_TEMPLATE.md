@@ -15,7 +15,11 @@ Pastikan checklist dibawah sudah dikerjakan sebelum submit PR :
 # Assign 3 Reviewer
 - 
 - 
-- 
+
+# Security Checklist
+- [ ] Views/API end point sudah dilindungi oleh permission yang tepat
+- [ ] User tidak dapat mengubah/membaca data milik orang lain
+- [ ] `CharField` dalam form sudah di-sanitize
 
 # Reviewer Checklist
 - [ ] Difficulty level sudah di-label
