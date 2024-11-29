@@ -12,14 +12,15 @@ Pastikan checklist dibawah sudah dikerjakan sebelum submit PR :
 - [ ] Sudah melampirkan test (Apabila perlu)
 - [ ] Code security sudah di check
 
-# Assign 3 Reviewer
-- 
-- 
-
 # Security Checklist
 - [ ] Views/API end point sudah dilindungi oleh permission yang tepat
 - [ ] User tidak dapat mengubah/membaca data milik orang lain
 - [ ] `CharField` dalam form sudah di-sanitize
+
+
+# Assign 3 Reviewer
+- 
+- 
 
 # Reviewer Checklist
 - [ ] Difficulty level sudah di-label
