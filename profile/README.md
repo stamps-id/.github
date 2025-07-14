@@ -19,5 +19,5 @@ As a tech company in Indonesia, Stamps is leading on a few fronts:
 * Work life balance is respected
 * Free, all day access to chocolate & coffee bar
 
-If you're an aspiring software, mobile or data engineer, Stamps is the best place to work in Indonesia. Interested? Visit [our website](https://about.stamps.id/careers/) to find open positions.
+If you're an aspiring software, mobile or data engineer, Stamps is the best place to work in Indonesia. Interested? Visit [our website](https://stamps.id/careers/) to find open positions.
 
