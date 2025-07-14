@@ -3,7 +3,9 @@
 ### About Stamps
 We are Indonesia's leading CRM & mobile app development company serving multi-national companies such as:
 * Levi's
-* Burger King 
+* Burger King
+* Marugame Udon
+* Tim Horton's 
 * Kawan Lama Group (Azko, Informa, Chatime and more)
 
 ### Why Work for Stamps
