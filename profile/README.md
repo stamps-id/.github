@@ -4,7 +4,7 @@
 We are Indonesia's leading CRM & mobile app development company serving multi-national companies such as:
 * Levi's
 * Burger King 
-* Kawan Lama Group (Ace Hardware, Informa, Chatime and more)
+* Kawan Lama Group (Azko, Informa, Chatime and more)
 
 ### Why Work for Stamps
 As a tech company in Indonesia, Stamps is leading on a few fronts:
