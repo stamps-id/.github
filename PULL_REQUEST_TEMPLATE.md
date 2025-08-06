@@ -11,6 +11,7 @@ Pastikan checklist dibawah sudah dikerjakan sebelum submit PR :
 - [ ] Update changelog.md (jika dibutuhkan)
 - [ ] Sudah melampirkan test (Apabila perlu)
 - [ ] Code security sudah di check
+- [ ] Review dari AI sudah dicek
 
 # Security Checklist
 - [ ] Views/API end point sudah dilindungi oleh permission yang tepat
