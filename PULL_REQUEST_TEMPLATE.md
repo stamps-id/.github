@@ -2,6 +2,7 @@
 Pastikan checklist dibawah sudah dikerjakan sebelum submit PR :
 
 - [ ] Fix/Ref issue #... (buat issue dulu kalau belum ada)
+- [ ] Review dari AI sudah dicek
 - [ ] Coding sudah dibaca ulang
 - [ ] Print/Log/debugging statements sudah dihapus
 - [ ] Code indentation dan syntactical issues sudah dicek (spacing yang sesuai di sekitar keywords, dll)
@@ -11,7 +12,6 @@ Pastikan checklist dibawah sudah dikerjakan sebelum submit PR :
 - [ ] Update changelog.md (jika dibutuhkan)
 - [ ] Sudah melampirkan test (Apabila perlu)
 - [ ] Code security sudah di check
-- [ ] Review dari AI sudah dicek
 
 # Security Checklist
 - [ ] Views/API end point sudah dilindungi oleh permission yang tepat
